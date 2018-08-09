@@ -1,0 +1,6 @@
+github "ReactiveCocoa/ReactiveCocoa" == 7.2.0
+github "Alamofire/Alamofire" == 4.7.2
+github "Alamofire/AlamofireImage" == 3.3.1
+github "tristanhimmelman/AlamofireObjectMapper" == 5.0.0
+github "Hearst-DD/ObjectMapper" == 3.2.0
+github "pkluz/PKHUD" == 5.0.0
